@@ -56,7 +56,6 @@ I’m grateful for the guidance and opportunity from:
 **Nikhil Karn**
 - B.Tech in Electronics & Communication Engineering (ECE)
 - Interests: VLSI, Embedded Systems
-- Currently enrolled in **RISC-V SoC Tapeout Program (VSD India & IIT Gandhinagar)**
 - GitHub: [Nikhil Karn](https://github.com/nikhilkrn)
 - Linkedin: [Nikhil Karn](https://linkedin.com/in/nikhil-karn)
 ---
