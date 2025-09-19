@@ -10,7 +10,7 @@ This repo tracks my weekly / lab-wise progress as I go through the entire ASIC d
 | Week / Lab | Topic | Documentation | Status |
 |------------|-------|---------------|--------|
 | Week 00 / Lab 0 | Setup & Tool Installation (Icarus Verilog, Yosys, GTKWave) | [Lab0 README](week-00/README.md) | ✅ |
-|... | ....| .... | ...|
+
 
 Each week / lab folder will contain:
 
